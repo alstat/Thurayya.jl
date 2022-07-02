@@ -2,7 +2,7 @@ using Documenter
 using Thurayya
 
 makedocs(
-    sitename = "Thurayya",
+    sitename = "Thurayya.jl",
     format = Documenter.HTML(),
     modules = [Thurayya]
 )
