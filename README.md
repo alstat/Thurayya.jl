@@ -1,1 +1,1 @@
-# Thurayya.jl <img src="docs/src/assets/logo.svg" align="right" width="100"/>
+# Thurayya.jl <img src="docs/src/assets/logo.png" align="right" width="100"/>
